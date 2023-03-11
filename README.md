@@ -8,7 +8,8 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
+<h2> Resume </h2>
+	[Resume](https://docs.google.com/document/d/1AqeGU81Cc0DvkZw3y2PjsqSQ4A-IbrVb4EU9Z3SGyVA/edit?usp=sharing)
 
 <h2> About Me </h2>
 
